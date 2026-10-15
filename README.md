@@ -1,0 +1,1 @@
+This repository contains a simple application of Particle Filtering technique for prognostics. I developed the paper for a project work I completed for the course "Artificial intelligence and advanced simulation", which I took during my MSc program.
